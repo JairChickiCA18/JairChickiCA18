@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/BENPCORDIE'))()
+loadstring(game:HttpGet(https://raw.githubusercontent.com/ToraScript/Script/main/BENPCORDIE))()
